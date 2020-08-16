@@ -4,9 +4,8 @@
 
 A react app which you can searchs for users in Github
 
-## deploy >
-
-[Github Finder live](https://githubfinderfelipeantonio.netlify.app/)
+*deploy*
+[GithubFinder live](https://githubfinderfelipeantonio.netlify.app/)
 
 ### Running the application 
 
