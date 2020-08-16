@@ -2,9 +2,10 @@
 
 # Github Finder
 
-A react app which you can searchs for users in Github
+A react app which you can searchs for users in Github.
 
 **deploy**
+Try search an user, i.e NietoCurcio.
 [GithubFinder live](https://githubfinderfelipeantonio.netlify.app/)
 
 ### Running the application 
